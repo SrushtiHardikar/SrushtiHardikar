@@ -61,11 +61,7 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=SrushtiHardikar&theme=github-dark&hide_border=true&area=true" />
 </p>
 
----
 
-### 🌟 Featured Projects
-
-<!-- Add your projects here -->
 
 ---
 
