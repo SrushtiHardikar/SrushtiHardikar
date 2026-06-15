@@ -42,15 +42,15 @@
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=nightowl" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SrushtiHardikar&show_icons=true&theme=nightowl" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=your-username&theme=nightowl&hide_border=true" />
+  <img src="https://streak-stats.demolab.com/?user=SrushtiHardikar&theme=nightowl&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=your-username&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SrushtiHardikar&theme=tokyonight" />
 </p>
 
 ---
@@ -58,7 +58,7 @@
 ### 📈 Contribution Activity
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=your-username&theme=github-dark&hide_border=true&area=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SrushtiHardikar&theme=github-dark&hide_border=true&area=true" />
 </p>
 
 ---
